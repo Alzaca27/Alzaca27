@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Alzaca27
+- 👀 I’m interested in Automation 
+- 🌱 I’m currently learning Data engineering, Data science, Data analyst.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me Email: alvarozabaletacaro@hotmail.com 
+-                     Cell: +57 3218451249
