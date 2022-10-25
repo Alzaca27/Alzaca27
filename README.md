@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Alzaca27 -> Mechanical and Automation Engineer  / Data Analist/ Data Science/ Data Engineer
-- 👀 I’m interested in BIG DATA 
+- 👋 Hi, I’m @Alzaca27 -> Mechanical and Automation Engineer  / Data Analist/ Data Science/ Data Engineer.
+- 👀 I’m interested in BIG DATA.
 - 🌱 I’m currently learning Data engineering, Data science, Data analyst.
-- 💞️ I’m looking to collaborate on renewable energy projects
+- 💞️ I’m looking to collaborate on renewable energy projects.
 - 📫 How to reach me Email: alvarozabaletacaro@hotmail.com
